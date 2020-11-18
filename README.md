@@ -1,5 +1,7 @@
 # Page Views
-A ruby app that parses web logs, outputs a list of the pages and how many times each has been viewed.
+A ruby app that parses web logs, outputs:
+- List of pages from log with page views, sorted by amount of views
+- List of pages from log with unique page views, sorted by amount of unique views
 
 ## Installation
 
