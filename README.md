@@ -50,3 +50,4 @@ ruby bin/page_views.rb data/webserver.log
 - Create Pages class to handle actions on array of pages e.g. sorting
 - Write edge cases for specs
 - LogImporter to receive different types of classes rather than the constant type of Page
+- Add continuous integration to project
