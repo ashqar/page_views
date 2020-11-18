@@ -1,8 +1,8 @@
 class Page
-  attr_accessor :name, :viewer_ips
+  attr_accessor :path, :viewer_ips
 
-  def initialize(name, viewer_ips = [])
-    @name = name
+  def initialize(path, viewer_ips = [])
+    @path = path
     @viewer_ips = viewer_ips
   end
 
