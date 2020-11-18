@@ -51,3 +51,4 @@ ruby bin/page_views.rb data/webserver.log
 - Write edge cases for specs
 - LogImporter to receive different types of classes rather than the constant type of Page
 - Add continuous integration to project
+- Cleanup and removal of unneeded tests e.g. spec/quality_spec
